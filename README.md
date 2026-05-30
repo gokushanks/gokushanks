@@ -9,22 +9,19 @@
 <br/>
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://gokul-portfolio-r7h8.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulninja12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-s-399063285)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokushanks)
-
+  <a href="https://gokul-portfolio-r7h8.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit_Now-ff6b6b?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:gokulninja12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/gokul-s-399063285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/gokushanks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gokushanks&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Generative%20AI-bf91f3?style=flat-square" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-70a5fd?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gokushanks&amp;label=Profile+Views&amp;color=70a5fd&amp;style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-38bdae?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" alt="Location"/>
+  <img src="https://img.shields.io/badge/Focus-Generative%20AI-bf91f3?style=flat-square" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collabs-70a5fd?style=flat-square" alt="Open To"/>
 </div>
 
 ---
@@ -39,9 +36,9 @@ class GokuS:
         self.name          = "Gokul S"
         self.github        = "gokushanks"
         self.portfolio     = "gokul-portfolio-r7h8.vercel.app"
-        self.location      = "Chennai, India 🇮🇳"
+        self.location      = "Chennai, India"
         self.email         = "gokulninja12@gmail.com"
-        self.degree        = "B.Tech AI & DS @ BSA Crescent (2027)"
+        self.degree        = "B.Tech AI and DS at BSA Crescent (2027)"
         self.cgpa          = 7.0
 
         self.stack = [
@@ -52,23 +49,31 @@ class GokuS:
 
         self.currently_learning = [
             "Advanced RAG Pipelines",
-            "AI Agents & Multi-Agent Systems",
+            "AI Agents and Multi-Agent Systems",
             "System Design for LLM Apps",
         ]
 
         self.fun_fact = (
-            "Cut LLM latency by 35–45% "
-            "by keeping inference fully local 🚀"
+            "Cut LLM latency by 35-45 percent "
+            "by keeping inference fully local"
         )
 
     def motto(self):
-        return "Build first. Break it. Understand why. Ship smarter. 🛸"
+        return "Build first. Break it. Understand why. Ship smarter."
 
 me = GokuS()
 print(me.motto())
 ```
 
 <br clear="right"/>
+
+---
+
+## 🏆 Trophy Wall
+
+<div align="center">
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=gokushanks&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=6&amp;margin-w=8" alt="GitHub Trophies"/>
+</div>
 
 ---
 
@@ -86,13 +91,13 @@ print(me.motto())
 **AI / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Backend & APIs**
+**Backend**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
@@ -106,7 +111,7 @@ print(me.motto())
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
-**Cloud & DevOps**
+**Cloud and DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -126,7 +131,6 @@ print(me.motto())
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
@@ -134,35 +138,35 @@ print(me.motto())
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏢 Big Bucks Innovation Pvt. Ltd — Cloud Computing Intern &nbsp;|&nbsp; Jan 2025 – Feb 2025 &nbsp;|&nbsp; Chennai</b></summary>
+<summary><b>🏢 Big Bucks Innovation Pvt. Ltd — Cloud Computing Intern | Jan 2025 – Feb 2025 | Chennai</b></summary>
 
 <br/>
 
-> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-> ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-> ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-> ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
-> ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
-> ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)
 
-- 🔧 Designed and deployed **scalable AWS infrastructure** using EC2, VPC, IAM, RDS, S3, ELB, and CloudWatch for high-availability cloud operations.
-- ⚡ Automated provisioning with **AWS CLI & CloudFormation** — load balancing, auto-scaling, and cost-optimised monitoring.
-- 🔐 Applied **IAM role-based access control** and network isolation best practices across team deployments.
+- Designed and deployed **scalable AWS infrastructure** using EC2, VPC, IAM, RDS, S3, ELB, and CloudWatch for high-availability cloud operations.
+- Automated provisioning with **AWS CLI and CloudFormation** — load balancing, auto-scaling, and cost-optimised monitoring.
+- Applied **IAM role-based access control** and network isolation best practices across team deployments.
 
 </details>
 
 <details>
-<summary><b>🎓 Technical Instructor & Student Mentor — Cloud Computing & AI &nbsp;|&nbsp; Academic Year</b></summary>
+<summary><b>🎓 Technical Instructor and Student Mentor — Cloud Computing and AI | Academic Year</b></summary>
 
 <br/>
 
-> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-> ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-> ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
-- 📚 Delivered **hands-on Cloud & AI instruction** to college students through project-based learning and real-world use cases.
-- 🔄 Guided students through the full lifecycle: **theory → implementation → presentation**.
-- 🚀 Led **multiple teams** to build and demo end-to-end cloud and AI projects successfully.
+- Delivered **hands-on Cloud and AI instruction** to college students through project-based learning and real-world use cases.
+- Guided students through the full lifecycle: **theory to implementation to presentation**.
+- Led **multiple teams** to build and demo end-to-end cloud and AI projects successfully.
 
 </details>
 
@@ -170,55 +174,43 @@ print(me.motto())
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| [**🤖 NAMI — Local AI Assistant**](https://github.com/gokushanks) | Python · Flask · LangChain · Hugging Face · REST API | ⚡ 35–45% latency cut via local inference · 150+ queries tested · Zero cloud dependency · Multi-LLM support |
-| [**🔗 PROLINKX — Web3 Hiring Platform**](https://github.com/gokushanks) | MERN · Ethers.js · Socket.IO · JWT · Ethereum | 🔐 100% verified job posts via on-chain validation · Real-time comms · AI talent matching · Netlify + Railway |
-
-</div>
+| [**🤖 NAMI — Local AI Assistant**](https://github.com/gokushanks) | Python, Flask, LangChain, Hugging Face, REST API | 35–45% latency cut via local inference, 150+ queries tested, zero cloud dependency, multi-LLM support |
+| [**🔗 PROLINKX — Web3 Hiring Platform**](https://github.com/gokushanks) | MERN, Ethers.js, Socket.IO, JWT, Ethereum | 100% verified job posts via on-chain validation, real-time comms, AI talent matching, Netlify and Railway |
 
 ---
 
-## 🏅 Achievements & Certifications
+## 🏅 Achievements and Certifications
 
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🎓 | **Advanced Learning Algorithms** — DeepLearning.AI (Stanford) | TensorFlow · Neural Networks · XGBoost · Tree Ensembles |
-| 🧠 | **Unsupervised Learning, Recommenders & RL** — DeepLearning.AI (Stanford) | Anomaly Detection · Collaborative Filtering · RL |
-| 🔗 | **LangChain for LLM Application Development** — Simplilearn SkillUP | Prompt Engineering · Memory · Agents · RAG |
-| 🌐 | **Frontend Development** — NxtWave CCBP 4.0 | HTML · CSS · Bootstrap |
-| ☁️ | **Cloud Computing Internship** — Big Bucks Innovation Pvt. Ltd | AWS Infrastructure · Security · Auto-scaling |
+| Badge | Achievement | Details |
+|:-----:|:------------|:--------|
+| 🎓 | **Advanced Learning Algorithms** — DeepLearning.AI Stanford | TensorFlow, Neural Networks, XGBoost, Tree Ensembles |
+| 🧠 | **Unsupervised Learning, Recommenders and RL** — DeepLearning.AI Stanford | Anomaly Detection, Collaborative Filtering, RL |
+| 🔗 | **LangChain for LLM Application Development** — Simplilearn SkillUP | Prompt Engineering, Memory, Agents, RAG |
+| 🌐 | **Frontend Development** — NxtWave CCBP 4.0 | HTML, CSS, Bootstrap |
+| ☁️ | **Cloud Computing Internship** — Big Bucks Innovation Pvt. Ltd | AWS Infrastructure, Security, Auto-scaling |
 | ⚡ | **35–45% Latency Reduction** — NAMI Project | Local LLM inference eliminating cloud round-trips |
-| 🔐 | **100% Verified Job Listings** — PROLINKX | On-chain validation via Ethers.js + Etherscan API |
-
-</div>
+| 🔐 | **100% Verified Job Listings** — PROLINKX | On-chain validation via Ethers.js and Etherscan API |
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
-
 | Degree | Institution | Graduating | Score |
 |:-------|:------------|:----------:|:-----:|
-| 🤖 **B.Tech — AI & Data Science** | BSA Crescent Institute of Science and Technology | May 2027 | **7.0 CGPA** |
-
-</div>
+| 🤖 **B.Tech — AI and Data Science** | BSA Crescent Institute of Science and Technology | May 2027 | **7.0 CGPA** |
 
 ---
 
 ## 🧱 Currently Learning
 
 ```
-🧠 Advanced RAG   → Multi-vector retrieval, HyDE, re-ranking, contextual compression
-🤖 AI Agents      → Tool-calling, multi-agent orchestration, memory architectures
-🏗️  System Design  → Scalable LLM APIs, async pipelines, distributed inference
-🔗 Web3 + AI      → On-chain data for AI applications, verifiable compute
-☁️  AWS Deep Dive  → SageMaker, Lambda, Bedrock, advanced IAM patterns
+Advanced RAG   -> Multi-vector retrieval, HyDE, re-ranking, contextual compression
+AI Agents      -> Tool-calling, multi-agent orchestration, memory architectures
+System Design  -> Scalable LLM APIs, async pipelines, distributed inference
+Web3 and AI    -> On-chain data for AI applications, verifiable compute
+AWS Deep Dive  -> SageMaker, Lambda, Bedrock, advanced IAM patterns
 ```
 
 ---
@@ -226,22 +218,20 @@ print(me.motto())
 ## 🤝 Connect With Me
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-gokul--portfolio-ff6b6b?style=for-the-badge&logo=vercel&logoColor=white)](https://gokul-portfolio-r7h8.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gokulninja12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gokul-s-399063285)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gokushanks)
-
+  <a href="https://gokul-portfolio-r7h8.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-gokul--portfolio-ff6b6b?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"/></a>
+  <a href="mailto:gokulninja12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com/in/gokul-s-399063285"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/gokushanks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"Build first. Break it. Understand why. Ship smarter. 🛸"</i>
+  <i>Build first. Break it. Understand why. Ship smarter.</i>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4facfe,100:bf91f3&amp;height=120&amp;section=footer&amp;animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:4facfe,100:bf91f3&amp;height=120&amp;section=footer&amp;animation=twinkling" alt="footer"/>
 </div>
